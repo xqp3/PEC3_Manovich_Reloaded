@@ -60,7 +60,7 @@ Aqui vemos una _[lista de herramientas] ([url](https://www.quickonlinetips.com/a
 caso de hibridación de la plataforma, sino más bien una actualización de software, por 
 decirlo de alguna manera.
 Así pues, los cambios en los medios no siempre significan una hibridación, sino mas 
-bien una actualización de estos. Para que realmente sea una hibridación, debemos hablar de la unión de dos medios, manteniendo la base para crear “nuevos medios”.  
+bien una actualización de estos. Para que realmente sea una hibridación, debemos hablar de la unión de dos medios, manteniendo la base para crear “nuevos medios”.  
 > _“Por lo tanto, si bien en 1977 Kay y Goldberg especularon que el nuevo metamedio ordenador 
 contendría «un amplio abanico de medios ya existentes y otros aún por inventar», hoy por hoy 
 podemos describir uno de los principales mecanismos que hay detrás de la invención de estos 
@@ -119,7 +119,7 @@ puede interactuar en tiempo real con los sus“suscriptores”.
 Si, suscriptores, igual que Youtube, pero como hemos dicho todo plato parte de una 
 base. 
 
-El problema con Youtube es que los suscriptores solamente verán el contindo nuevo del canal, con Twitch sus suscriptores aparte de que hay varios niveles con distintas ventajas, tienen la posibilidad como ya hemos comentado de interactuar con 
+El problema con Youtube es que los suscriptores solamente verán el contindo nuevo del canal, con Twitch sus suscriptores aparte de que hay varios niveles con distintas ventajas, tienen la posibilidad como ya hemos comentado de interactuar con 
 el moderador del canal, pero también tienen otra clase de ventajas,
 como por ejemplo:
 
