@@ -211,7 +211,9 @@ cosas que conforman la hibridación del Tobii Ghost, la necesidad de utilizar un
 determinado tipo de software para poder realizar la tarea de seguimiento ocular 
 como resultado.
 
+
 ![Sin título-3](https://user-images.githubusercontent.com/102365581/169530154-ec264eaa-bbee-4717-aee0-67ce1ee911f0.jpg)
+
 
 Vemos como son necesarias las incorporaciones de nuevos medios si queremos seguir 
 usando los avances tecnologicos que se van produciendo.
