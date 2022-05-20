@@ -165,7 +165,7 @@ Para concer que és debemos primero saber que es el eye tracking:
 oculares en relación con una superficie determinada” 1_
 
 Estaríamos hablando pues, de un dispositivo con un software conectado algun tipo de 
-medio informatico, que detecta el movimiento de un “cuerpo” previamente establecido, es decir, le decimos al medio informatico, a qué objeto tiene que seguir en base a 
+medio informatico, que detecta el movimiento de un “cuerpo” previamente establecido, es decir, le decimos al medio informatico, a qué objeto tiene que seguir en base a 
 unas coordenadas iniciales. 
 
 Aqui un video de [como funciona] ([url](https://vimeo.com/184845395))
@@ -177,7 +177,7 @@ Para empezar cumple uno de los puntos expuestos por Manovich donde expone que:
 
 Tobii Ghost permite que los espectadores sean capaces de ver hacía qué punto y dónde 
 mira el streamer. Con el eye tracking los medios informaticos transmiten lo que estas 
-viendo, pero gracias a esta extensión son los demás los que pueden ver nuestros movimientos de ojos. En definitiva, es una interfaz para los demás no para uno mismo. Claro que uno mismo le sacará provecho, y de eso se trata, pues en Twitch como sabemos 
+viendo, pero gracias a esta extensión son los demás los que pueden ver nuestros movimientos de ojos. En definitiva, es una interfaz para los demás no para uno mismo. Claro que uno mismo le sacará provecho, y de eso se trata, pues en Twitch como sabemos 
 lo más importante es que los espectadores se sientan escuchados y que haya la máxima 
 implicación por parte suya. ¿ Y que mayor implicación que puedan saber lo que uno 
 de sus streamers favoritos esta mirando?
@@ -200,7 +200,7 @@ a mi entender son lo que constituye que sea una hibridación:
 
 Si, como bien sabemos para poder hacer un revoltillo de ajos tiernos es necesaria 
 una base de huevos. Entonces para usar la extensión será necesaria la base que es el 
-seguimiento ocular. Actualmente existen muchos dispositivos de seguimiento ocular y de varias marcas distintas también es cierto que no todos tienen las mismas 
+seguimiento ocular. Actualmente existen muchos dispositivos de seguimiento ocular y de varias marcas distintas también es cierto que no todos tienen las mismas 
 funciones y sobretodo no utilizan el mismo hardware.
 
 2. El software [Tobii Eye Tracking Core Software] ([url](https://gaming.tobii.com/getstarted/)) 
